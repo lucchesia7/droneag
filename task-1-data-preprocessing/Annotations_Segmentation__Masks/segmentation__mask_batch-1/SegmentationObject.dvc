@@ -1,0 +1,5 @@
+outs:
+- md5: 76a53fed8f396ca8dfa9d732fa34f611.dir
+  size: 25805816
+  nfiles: 175
+  path: SegmentationObject

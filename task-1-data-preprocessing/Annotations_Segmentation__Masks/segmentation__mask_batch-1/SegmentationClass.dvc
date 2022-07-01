@@ -1,0 +1,5 @@
+outs:
+- md5: 2aac21b23d27dc0d694990791aec547b.dir
+  size: 29803961
+  nfiles: 175
+  path: SegmentationClass

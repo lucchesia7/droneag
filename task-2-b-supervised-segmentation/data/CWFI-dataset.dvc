@@ -1,0 +1,5 @@
+outs:
+- md5: 90cf3b66abaa22b600cdca37fb408506.dir
+  size: 107673565
+  nfiles: 304
+  path: CWFI-dataset

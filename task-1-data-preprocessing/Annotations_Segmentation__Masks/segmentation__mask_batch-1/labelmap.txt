@@ -1,0 +1,10 @@
+# label:color_rgb:parts:actions
+background:0,0,0::
+Barley-S1:184,61,245::
+Barley-S2:140,120,240::
+Barley-S3:240,120,240::
+Unhealthy_crops:250,250,55::
+Weeds:61,245,61::
+Wheat-S1:50,183,250::
+Wheat-S2:89,134,179::
+Wheat-S3:61,61,245::
